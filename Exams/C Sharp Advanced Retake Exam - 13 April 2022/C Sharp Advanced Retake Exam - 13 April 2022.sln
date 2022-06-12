@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01. Meal Plan", "P01. Meal Plan\P01. Meal Plan.csproj", "{4D864146-EC7A-4896-8A56-329A40DE8669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02. Truffle Hunter", "02. Truffle Hunter\P02. Truffle Hunter.csproj", "{A4C9E09F-A433-4686-8BCC-3B3BF95811BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D864146-EC7A-4896-8A56-329A40DE8669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D864146-EC7A-4896-8A56-329A40DE8669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D864146-EC7A-4896-8A56-329A40DE8669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D864146-EC7A-4896-8A56-329A40DE8669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C9E09F-A433-4686-8BCC-3B3BF95811BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C9E09F-A433-4686-8BCC-3B3BF95811BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C9E09F-A433-4686-8BCC-3B3BF95811BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C9E09F-A433-4686-8BCC-3B3BF95811BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F9FF61-CB20-4756-A4F8-4072F59FD848}
+	EndGlobalSection
+EndGlobal
