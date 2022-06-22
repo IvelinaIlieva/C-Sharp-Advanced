@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.WarmWinter", "P01.WarmWinter\P01.WarmWinter.csproj", "{D2F8146E-E774-4DEC-AC2E-758620189482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.SuperMario", "P02.SuperMario\P02.SuperMario.csproj", "{F117D9C2-A2A5-4B0E-9D49-CC33BE0FC23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F8146E-E774-4DEC-AC2E-758620189482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F8146E-E774-4DEC-AC2E-758620189482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F8146E-E774-4DEC-AC2E-758620189482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F8146E-E774-4DEC-AC2E-758620189482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F117D9C2-A2A5-4B0E-9D49-CC33BE0FC23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F117D9C2-A2A5-4B0E-9D49-CC33BE0FC23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F117D9C2-A2A5-4B0E-9D49-CC33BE0FC23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F117D9C2-A2A5-4B0E-9D49-CC33BE0FC23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D46CB2-15F0-4841-B31E-57AE09398283}
+	EndGlobalSection
+EndGlobal
